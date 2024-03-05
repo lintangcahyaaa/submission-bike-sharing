@@ -7,7 +7,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # Menambahkan logo perusahaan di pojok kiri atas
-st.image("bike2.jpg", width=100)
+st.image("dashboard/bike2.jpg", width=100)
 
 # Menambahkan judul di tengah
 st.title("Dashboard Analisis Bike Sharing")
