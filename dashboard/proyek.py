@@ -14,7 +14,7 @@ st.title("Dashboard Analisis Bike Sharing")
 
 # Mengimpor dataset
 def load_data():
-    return pd.read_csv("day.csv")
+    return pd.read_csv("dashboard/day.csv")
 
 # Memuat data
 df = load_data()
